@@ -1,0 +1,15 @@
+body{
+	font-size: 65%;
+	box-sizing: border-box;
+	margin: 1;
+}
+
+h1{
+	color: red;
+	font-size: 4rem;
+}
+
+p{
+	color: blue;
+	font-size: 2rem;
+}
