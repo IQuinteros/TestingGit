@@ -1,2 +1,4 @@
 
+Esta es una nueva edición de prueba.
+
 Hola, este es el archivo Hola!
